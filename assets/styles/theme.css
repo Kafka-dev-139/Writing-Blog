@@ -1,6 +1,6 @@
 /* GLOBAL */
 :root {
-  --black: #000000;
+  --black: #0f0e0e;
   --white: #FFFDF5;
   --yellow: #FFD23F;
   --pink: #FF6B6B; 
@@ -52,7 +52,7 @@ h1 {
   font-size: 45px;
 }
 h2,h3,h4,h5,h6,a {
-    font-family: "Space Grotesk", sans-serif;
+  font-family: "Space Grotesk", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;  
