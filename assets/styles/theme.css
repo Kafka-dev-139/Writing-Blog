@@ -1,0 +1,17 @@
+/* GLOBAL */
+:root {
+  --white: #f2f2f2;
+  --pure-white: rgb(255, 255, 255);
+  --light-gray: #8c8c8c;
+  --extra-light-gray: rgb(218, 218, 218);
+  --gray: #595959;
+  --dark-gray: #262626;
+  --black: #181717;
+  --pure-black: black;
+  --gold: #a68256;
+  --purple: #5c3661;
+  --red: #a7292f;
+  --cyan: #148a94;
+}
+
+/* Typography */
