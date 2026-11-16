@@ -41,5 +41,74 @@
   font-style: normal;
 }
 
+/* ---------------------------- */
+
+
+
+h1 {
+    font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 45px;
+}
+h2,h3,h4,h5,h6,a {
+    font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;  
+}
+h2 {
+    font-size: 1.7rem;
+}
+h3 {
+    font-size: 1.5rem;
+}
+h4 {
+    font-size: 1.3rem;
+}
+h5 {
+    font-size: 1.1rem;
+}
+h6 {
+    font-size: 0.9rem;
+}
+
+
+p,
+span,
+li,
+abbr,
+cite,
+data,
+i,
+mark,
+small
+{
+font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.2rem;
+}
+p, h1,h2,h3,h4,h5,h6, .highlight {
+    padding: 10px 0;
+}
+.bold {
+    font-weight: 700;
+}
+
+code,
+.highlight,
+.note
+{
+   font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal; 
+}
+
+hr {
+    border: 3px solid black;
+}
+
+
 
 
